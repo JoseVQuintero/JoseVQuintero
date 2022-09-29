@@ -1,17 +1,11 @@
 # Hola, Soy Jose Quintero
 
 ## Soy Full Stack Web Developer
-
-
-
 <p align="center">
     <a href="https://github.com/JoseVQuintero">
-      <img src='https://assets.nationbuilder.com/sdintelligence/pages/151/attachments/original/1490392784/planeta.gif?1490392784' alt='github' height='40'>
+      <img src='https://thumbs.gfycat.com/CrazyEthicalJohndory-size_restricted.gif' alt='github'>
     </a>
 </p>
-
-<img>
-
 ### Me apasiona la programación y tengo siempre hambre de más conocimiento.
 
 ### Soy profesional en el trabajo y también considero fundamentales las relaciones humanas y el trabajo en equipo.
