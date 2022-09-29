@@ -8,7 +8,7 @@
 </p>
 ### Me apasiona la programación y tengo siempre hambre de más conocimiento.
 
-### Soy profesional en el trabajo y también considero fundamentales las relaciones humanas y el trabajo en equipo.
+### Soy profesional en el trabajo.
 
 ---
 
