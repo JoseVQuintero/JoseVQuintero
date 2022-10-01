@@ -28,7 +28,7 @@
 ---
 
 <p align="center">
-    <a href="https://github.com/JoseVQuintero">
+    <a target="_blank" href="https://github.com/JoseVQuintero">
       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
     </a>
     <a target="_blank" href="https://www.linkedin.com/in/josequinterohermosillo/">
