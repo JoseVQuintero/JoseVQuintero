@@ -16,14 +16,14 @@
 
 |                                                                |                   |                                      |                                                    |             |                                      |
 | -------------------------------------------------------------- | ----------------- | ------------------------------------ | -------------------------------------------------- | ----------- | ------------------------------------ |
-| ![typescript](./img/technologies/typescript.png)               | TypeScript        | ![50%](https://progress-bar.dev/50/) | ![node](./img/technologies/node.png)                           | Node              | ![50%](https://progress-bar.dev/50/) 
-| ![express](./img/technologies/express.png)                     | Express           | ![50%](https://progress-bar.dev/50/) | ![prisma](./img/technologies/prisma.png)                       | Prisma            | ![50%](https://progress-bar.dev/50/) 
-| ![sequelize](./img/technologies/sequelize.png)                 | Sequelize         | ![50%](https://progress-bar.dev/50/) | ![postgresql](./img/technologies/postgresql.png)               | PostgreSQL        | ![50%](https://progress-bar.dev/50/) 
+| ![typescript](./img/technologies/typescript.png)               | TypeScript        | ![60%](https://progress-bar.dev/60/) | ![node](./img/technologies/node.png)                           | Node              | ![70%](https://progress-bar.dev/70/) 
+| ![express](./img/technologies/express.png)                     | Express           | ![60%](https://progress-bar.dev/60/) | ![prisma](./img/technologies/prisma.png)                       | Prisma            | ![80%](https://progress-bar.dev/80/) 
+| ![sequelize](./img/technologies/sequelize.png)                 | Sequelize         | ![80%](https://progress-bar.dev/80/) | ![postgresql](./img/technologies/postgresql.png)               | PostgreSQL        | ![50%](https://progress-bar.dev/50/) 
 | ![jest](./img/technologies/jest.png)                           | Jest              | ![50%](https://progress-bar.dev/50/) | ![mocha](./img/technologies/mocha.png)                         | Mocha             | ![50%](https://progress-bar.dev/50/) 
-| ![react](./img/technologies/react.png)                         | React             | ![50%](https://progress-bar.dev/50/) | ![redux](./img/technologies/redux.png)                         | Redux             | ![50%](https://progress-bar.dev/50/) 
-| ![css-modules](./img/technologies/css-modules.png)             | CSS Modules       | ![50%](https://progress-bar.dev/50/) | ![styled-components](./img/technologies/styled-components.png) | Styled Components | ![50%](https://progress-bar.dev/50/) 
-| ![material-ui](./img/technologies/material-ui.png)             | Material UI       | ![50%](https://progress-bar.dev/50/) | ![aws](./img/technologies/aws.png)                             | AWS               | ![50%](https://progress-bar.dev/50/) 
-| ![git](./img/technologies/git.png)                             | Git               | ![50%](https://progress-bar.dev/50/) | ![github](./img/technologies/github.png)                       | GitHub            | ![50%](https://progress-bar.dev/50/) 
+| ![react](./img/technologies/react.png)                         | React             | ![70%](https://progress-bar.dev/70/) | ![redux](./img/technologies/redux.png)                         | Redux             | ![70%](https://progress-bar.dev/70/) 
+| ![css-modules](./img/technologies/css-modules.png)             | CSS Modules       | ![50%](https://progress-bar.dev/50/) | ![styled-components](./img/technologies/styled-components.png) | Styled Components | ![650%](https://progress-bar.dev/65/) 
+| ![material-ui](./img/technologies/material-ui.png)             | Material UI       | ![70%](https://progress-bar.dev/70/) | ![aws](./img/technologies/aws.png)                             | AWS               | ![70%](https://progress-bar.dev/70/) 
+| ![git](./img/technologies/git.png)                             | Git               | ![60%](https://progress-bar.dev/60/) | ![github](./img/technologies/github.png)                       | GitHub            | ![70%](https://progress-bar.dev/70/) 
 
 ---
 
