@@ -2,13 +2,8 @@
 
 ## Soy Full Stack Web Developer
 <p align="center">
-    <video src="https://www.youtube.com/watch?v=UHvCVg9W9sU" autoplay poster="posterimage.jpg">
-  Tu navegador no admite el elemento <code>video</code>.
-</video>
-    <iframe src="https://www.youtube.com/watch?v=UHvCVg9W9sU" title="Jose Quintero"></iframe>
     <a href="https://github.com/JoseVQuintero">
-        
-        
+      <img src="jvqh.JPG"/>
     </a>
 </p>
 ### Me apasiona la programación y tengo siempre hambre de más conocimiento.
