@@ -3,7 +3,7 @@
 ## Soy Full Stack Web Developer
 <p align="center">
     <a href="https://github.com/JoseVQuintero">
-      <img src="jvqh.JPG"/>
+      <img src="./img/technologies/jvqh.JPG"/>
     </a>
 </p>
 ### Me apasiona la programación y tengo siempre hambre de más conocimiento.
