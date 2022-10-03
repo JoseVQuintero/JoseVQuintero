@@ -2,6 +2,9 @@
 
 ## Soy Full Stack Web Developer
 <p align="center">
+    <video src="videofile.ogg" autoplay poster="posterimage.jpg">
+  Tu navegador no admite el elemento <code>video</code>.
+</video>
     <iframe src="https://www.youtube.com/watch?v=UHvCVg9W9sU" title="Jose Quintero"></iframe>
     <a href="https://github.com/JoseVQuintero">
         
