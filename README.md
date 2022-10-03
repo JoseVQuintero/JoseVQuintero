@@ -3,7 +3,7 @@
 ## Soy Full Stack Web Developer
 <p align="center">
     <a target="_blank" href="http://ec2-18-119-113-192.us-east-2.compute.amazonaws.com:3000">
-      <img src="./img/technologies/jvqh.JPG" width="60%"/>
+      <img src="./img/technologies/jvqh.gif" width="70%"/>
     </a>
 </p>
 ### Me apasiona la programación y tengo siempre hambre de más conocimiento.
