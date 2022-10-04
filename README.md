@@ -7,7 +7,7 @@
     </a>
 </p>
 <p align="center">
-    <img width="30px" heifth="30px" src="./img/technologies/corazon.png" width="70%"/>
+    <img src="./img/technologies/corazon.png" width="5px"/><br>
     jvqhjose@gmail.com
 </p>
 ### Me apasiona la programación y tengo siempre hambre de más conocimiento.
