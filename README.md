@@ -6,6 +6,9 @@
       <img src="./img/technologies/jvqh.gif" width="70%"/>
     </a>
 </p>
+<p align="center">
+jvqhjose@gmail.com...
+</p>
 ### Me apasiona la programación y tengo siempre hambre de más conocimiento.
 
 ### Soy profesional en el trabajo.
