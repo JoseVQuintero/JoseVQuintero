@@ -7,7 +7,7 @@
     </a>
 </p>
 <p align="center">
-jvqhjose@gmail.com...
+    jvqhjose@gmail.com
 </p>
 ### Me apasiona la programación y tengo siempre hambre de más conocimiento.
 
