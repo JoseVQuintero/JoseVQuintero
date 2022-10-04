@@ -10,9 +10,7 @@
     <img src="./img/technologies/corazon.png" width="15px"/><br>
     jvqhjose@gmail.com
 </p>
-### Me apasiona la programación y tengo siempre hambre de más conocimiento.
-
-### Soy profesional en el trabajo.
+### Me apasiona la programación.
 
 ---
 
