@@ -2,19 +2,22 @@
 
 ## Soy Full Stack Web Developer
 <p align="center">
-    <a target="_blank" href="http://ec2-18-119-113-192.us-east-2.compute.amazonaws.com:3000">
+    <a target="_blank" href="#">
       <img src="./img/technologies/jvqh.gif" width="70%"/>
     </a>
 </p>
 <p align="center">
     jvqhjose@gmail.com
 </p>
-### Me apasiona la programación.
+<p align="center">
+    <a target="_blank" href="http://admin.shopintegrate.net">
+      <img src="./img/technologies/admin.gif" width="70%"/>
+    </a>
+</p>
 
 ---
 
 ### Tecnologias:
-
 |                                                                |                   |                                      |                                                    |             |                                      |
 | -------------------------------------------------------------- | ----------------- | ------------------------------------ | -------------------------------------------------- | ----------- | ------------------------------------ |
 | ![typescript](./img/technologies/typescript.png)               | TypeScript        | ![60%](https://progress-bar.dev/60/) | ![node](./img/technologies/node.png)                           | Node              | ![70%](https://progress-bar.dev/70/) 
@@ -27,7 +30,6 @@
 | ![git](./img/technologies/git.png)                             | Git               | ![60%](https://progress-bar.dev/60/) | ![github](./img/technologies/github.png)                       | GitHub            | ![70%](https://progress-bar.dev/70/) 
 
 ---
-
 <p align="center">
     <a target="_blank" href="https://github.com/JoseVQuintero">
       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
