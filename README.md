@@ -11,7 +11,9 @@
 </p>
 <p align="center">
     <a target="_blank" href="http://admin.shopintegrate.net">
-      <img src="./img/technologies/admin.gif" width="70%"/>
+     <video width="70%" autoplay controls>
+      <source src="./img/technologies/adminmp4.mp4" type="video/mp4">
+      </video> 
     </a>
 </p>
 
